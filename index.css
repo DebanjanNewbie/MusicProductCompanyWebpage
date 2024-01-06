@@ -1,0 +1,894 @@
+.macbook-pro-16-1-child {
+  position: absolute;
+  top: 1087px;
+  left: 0;
+  background-color: #a08e8e;
+  width: 1728px;
+  height: 1629px;
+}
+.macbook-pro-16-1-item {
+  position: absolute;
+  top: 2713px;
+  left: 1px;
+  background-color: var(--color-gainsboro);
+  width: 1722px;
+  height: 730px;
+}
+.macbook-pro-16-1-inner,
+.rectangle-div {
+  position: absolute;
+  top: 3471px;
+  left: -2px;
+  background-color: #171616;
+  width: 1730px;
+  height: 276px;
+}
+.rectangle-div {
+  top: 3276px;
+  background-color: #0f011d;
+  height: 188px;
+}
+.macbook-pro-16-1-child1 {
+  position: absolute;
+  top: 2527px;
+  left: -2px;
+  background-color: var(--color-midnightblue);
+  width: 1730px;
+  height: 200px;
+}
+.macbook-pro-16-1-child2,
+.macbook-pro-16-1-child3 {
+  position: absolute;
+  top: 2548px;
+  left: 970px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gainsboro);
+  width: 397px;
+  height: 155px;
+}
+.macbook-pro-16-1-child3 {
+  top: 2545px;
+  left: 529px;
+  width: 416px;
+  height: 156px;
+}
+.hp-1-icon {
+  position: absolute;
+  top: -13px;
+  left: -7px;
+  width: 1735px;
+  height: 1105px;
+  object-fit: cover;
+  mix-blend-mode: difference;
+}
+.macbook-pro-16-1-child4 {
+  position: absolute;
+  top: -5px;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1728px;
+  height: 106px;
+}
+.macbook-pro-16-1-child5 {
+  position: absolute;
+  top: 13px;
+  left: 96px;
+  background-color: var(--color-white);
+  width: 936px;
+  height: 76px;
+}
+.wireless {
+  position: absolute;
+  top: 26px;
+  left: 104px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  font-family: var(--font-raleway);
+  color: var(--color-black);
+  width: 266px;
+}
+.macbook-pro-16-1-child6 {
+  position: absolute;
+  top: 13px;
+  left: 1046px;
+  border-radius: var(--br-31xl);
+  background-color: #eaddec;
+  width: 560px;
+  height: 74px;
+}
+.line-div,
+.macbook-pro-16-1-child7 {
+  position: absolute;
+  top: 11.5px;
+  left: 329.5px;
+  border-right: 5px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 5px;
+  height: 81.03px;
+}
+.macbook-pro-16-1-child7 {
+  top: 31.5px;
+  left: 561.5px;
+  display: none;
+}
+.hot,
+.offline-store,
+.support {
+  position: absolute;
+  top: 28px;
+  left: 348px;
+  font-size: var(--font-size-21xl);
+  text-transform: capitalize;
+  display: inline-block;
+  font-family: var(--font-raleway);
+  color: var(--color-black);
+  width: 218px;
+}
+.hot,
+.offline-store {
+  left: 582px;
+  width: 93px;
+}
+.offline-store {
+  left: 709px;
+  width: 354px;
+  height: 40px;
+}
+.macbook-pro-16-1-child8 {
+  position: absolute;
+  top: 13px;
+  left: 0;
+  background-color: #474242;
+  width: 84px;
+  height: 77px;
+}
+.macbook-pro-16-1-child10,
+.macbook-pro-16-1-child11,
+.macbook-pro-16-1-child9 {
+  position: absolute;
+  top: 73.5px;
+  left: 12.5px;
+  border-top: 5px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 63.01px;
+  height: 5px;
+}
+.macbook-pro-16-1-child10,
+.macbook-pro-16-1-child11 {
+  top: 48.5px;
+}
+.macbook-pro-16-1-child11 {
+  top: 24px;
+}
+.welcome-to-noisy,
+.where-words-fail {
+  position: absolute;
+  text-transform: capitalize;
+  display: inline-block;
+  height: 47px;
+}
+.welcome-to-noisy {
+  top: 156px;
+  left: 325px;
+  font-size: var(--font-size-21xl);
+  font-weight: 800;
+  font-family: var(--font-raleway);
+  width: 1388px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 2px rgba(0, 0, 0, 0.46);
+}
+.where-words-fail {
+  top: 203px;
+  left: 367px;
+  font-size: var(--font-size-17xl);
+  font-weight: 200;
+  width: 835px;
+  text-shadow: 1px 0 0#fff, 0 1px 0#fff, -1px 0 0#fff, 0-1px 0#fff;
+  opacity: 0.85;
+}
+.ellipse-icon,
+.macbook-pro-16-1-child12 {
+  position: absolute;
+  top: 1909px;
+  left: 877px;
+  width: 387px;
+  height: 435px;
+  object-fit: cover;
+}
+.macbook-pro-16-1-child12 {
+  top: 1208px;
+  left: 36px;
+  border-radius: 50%;
+  width: 391px;
+}
+.macbook-pro-16-1-child13 {
+  position: absolute;
+  top: -96px;
+  left: 129px;
+  width: 241px;
+  height: 229px;
+  object-fit: cover;
+}
+.ellipse-div,
+.macbook-pro-16-1-child14 {
+  position: absolute;
+  border-radius: 50%;
+  height: 435px;
+}
+.macbook-pro-16-1-child14 {
+  top: 1890px;
+  left: 452px;
+  width: 404px;
+  object-fit: cover;
+}
+.ellipse-div {
+  top: 1208px;
+  left: 451px;
+  background-color: var(--color-black);
+  border: 5px solid var(--color-midnightblue);
+  box-sizing: border-box;
+  width: 391px;
+}
+.macbook-pro-16-1-child15 {
+  position: absolute;
+  top: 1232px;
+  left: 477px;
+  width: 329px;
+  height: 371px;
+  object-fit: cover;
+}
+.noisy,
+.off,
+.off1,
+.off2,
+.off3 {
+  position: absolute;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.noisy {
+  top: 407px;
+  left: 96px;
+  font-size: 48px;
+  font-family: var(--font-kavoon);
+  color: var(--color-gray-200);
+  width: 166px;
+  height: 60px;
+  backdrop-filter: blur(70px);
+  text-shadow: 2px 0 0#eda600, 0 2px 0#eda600, -2px 0 0#eda600, 0-2px 0#eda600;
+}
+.off,
+.off1,
+.off2,
+.off3 {
+  top: 1776px;
+  left: 153px;
+  font-size: var(--font-size-21xl);
+  text-decoration: underline;
+  font-weight: 600;
+  width: 181px;
+  height: 53px;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.off1,
+.off2,
+.off3 {
+  top: 2424px;
+  left: 1016px;
+  width: 196px;
+  height: 62px;
+}
+.off2,
+.off3 {
+  top: 1776px;
+  left: 574px;
+  width: 232px;
+  height: 53px;
+}
+.off3 {
+  top: 1781px;
+  left: 1397px;
+  width: 192px;
+}
+.macbook-pro-16-1-child16 {
+  position: absolute;
+  top: 9.5px;
+  left: 554.5px;
+  border-right: 5px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 5px;
+  height: 81.03px;
+}
+.fast-delivery {
+  position: absolute;
+  top: 2595px;
+  left: 986px;
+  text-transform: capitalize;
+  font-weight: 600;
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 252px;
+  height: 56px;
+  mix-blend-mode: normal;
+}
+.emoji-delivery-truck {
+  position: absolute;
+  height: 2.6%;
+  width: 5.54%;
+  top: 68.73%;
+  right: 22.79%;
+  bottom: 28.67%;
+  left: 71.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.macbook-pro-16-1-child17 {
+  position: absolute;
+  top: 11.5px;
+  left: 687.5px;
+  border-right: 5px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 5px;
+  height: 81.03px;
+}
+.macbook-pro-16-1-child18 {
+  position: absolute;
+  top: 1208px;
+  left: 870px;
+  border-radius: 50%;
+  background-color: var(--color-black);
+  border: 5px solid var(--color-midnightblue);
+  box-sizing: border-box;
+  width: 391px;
+  height: 435px;
+}
+.macbook-pro-16-1-child19 {
+  position: absolute;
+  top: 1215px;
+  left: 908px;
+  border-radius: 50%;
+  width: 315px;
+  height: 408px;
+  object-fit: cover;
+}
+.macbook-pro-16-1-child20 {
+  position: absolute;
+  top: 1215px;
+  left: 1290px;
+  border-radius: 50%;
+  background-color: var(--color-black);
+  border: 5px solid var(--color-midnightblue);
+  box-sizing: border-box;
+  width: 391px;
+  height: 435px;
+}
+.macbook-pro-16-1-child21 {
+  position: absolute;
+  top: 1239px;
+  left: 1304px;
+  border-radius: 50%;
+  width: 363px;
+  height: 387px;
+  object-fit: cover;
+}
+.macbook-pro-16-1-child22 {
+  position: absolute;
+  top: 1918px;
+  left: 1285px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  border: 5px solid var(--color-midnightblue);
+  box-sizing: border-box;
+  width: 391px;
+  height: 435px;
+}
+.more {
+  top: 2016px;
+  left: 1334px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-paytone-one);
+  color: var(--color-orange);
+  text-align: center;
+  width: 288px;
+  height: 146px;
+}
+.div,
+.more,
+.off4 {
+  position: absolute;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.off4 {
+  top: 1780px;
+  left: 1002px;
+  font-size: var(--font-size-21xl);
+  text-decoration: underline;
+  font-weight: 600;
+  width: 200px;
+  height: 93px;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.div {
+  top: 2089px;
+  left: 1425px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-paytone-one);
+  color: var(--color-orange);
+  width: 133px;
+  height: 70px;
+}
+.macbook-pro-16-1-child23 {
+  position: absolute;
+  top: 1892px;
+  left: 28px;
+  border-radius: 50%;
+  background-color: var(--color-black);
+  border: 6px solid var(--color-midnightblue);
+  box-sizing: border-box;
+  width: 403px;
+  height: 433px;
+}
+.free-delivery,
+.hot-deals,
+.upto-50-off {
+  position: absolute;
+  text-transform: capitalize;
+  font-family: var(--font-paytone-one);
+  display: inline-block;
+}
+.hot-deals {
+  top: 1961px;
+  left: 69px;
+  font-size: 59px;
+  color: var(--color-gold);
+  width: 365px;
+  height: 104px;
+}
+.free-delivery,
+.upto-50-off {
+  height: 69px;
+}
+.free-delivery {
+  top: 2093px;
+  left: 41px;
+  font-size: 50px;
+  color: var(--color-gold);
+  width: 390px;
+}
+.upto-50-off {
+  top: 2039px;
+  left: 89px;
+  font-size: var(--font-size-21xl);
+  width: 347px;
+}
+.offer-closes {
+  margin: 0;
+}
+.offer-closes-soon {
+  position: absolute;
+  top: 2169px;
+  left: 54px;
+  font-size: var(--font-size-17xl);
+  text-transform: capitalize;
+  font-family: var(--font-paytone-one);
+  text-align: center;
+  display: inline-block;
+  width: 348px;
+  height: 71px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 1873px;
+  left: 164px;
+  width: 129px;
+  height: 73px;
+  object-fit: cover;
+}
+.gaming-headphones,
+.noisys-earpods {
+  position: absolute;
+  top: 1702px;
+  left: 28px;
+  font-size: var(--font-size-17xl);
+  text-decoration: underline;
+  text-transform: capitalize;
+  font-weight: 600;
+  color: var(--color-midnightblue);
+  display: inline-block;
+  width: 424px;
+  height: 74px;
+}
+.noisys-earpods {
+  left: 481px;
+  width: 405px;
+}
+.macbook-pro-16-1-child24 {
+  position: absolute;
+  top: 1457px;
+  left: 589px;
+  border-radius: 50%;
+  width: 105px;
+  height: 113px;
+  object-fit: cover;
+}
+.wired-headphones {
+  position: absolute;
+  top: 1702px;
+  left: 870px;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+  width: 406px;
+}
+.bluetooth-speakers,
+.noisysmicrophones,
+.wired-headphones {
+  font-size: var(--font-size-17xl);
+  text-decoration: underline;
+  color: var(--color-midnightblue);
+  height: 74px;
+}
+.bluetooth-speakers {
+  position: absolute;
+  top: 1702px;
+  left: 1285px;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+  width: 437px;
+}
+.noisysmicrophones {
+  top: 2373px;
+  left: 439px;
+  width: 421px;
+}
+.bluetooth-headphones,
+.noisysmicrophones,
+.service-support {
+  position: absolute;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+}
+.bluetooth-headphones {
+  top: 2377px;
+  left: 869px;
+  text-decoration: underline;
+  color: var(--color-midnightblue);
+  width: 486px;
+  height: 73px;
+}
+.service-support {
+  top: 2598px;
+  left: 542px;
+  color: var(--color-gray-100);
+  width: 304px;
+  height: 55px;
+  mix-blend-mode: normal;
+}
+.macbook-pro-16-1-child25 {
+  position: absolute;
+  top: 2551px;
+  left: 25px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gainsboro);
+  width: 479px;
+  height: 155px;
+}
+.track-your-delivery {
+  position: absolute;
+  top: 2604px;
+  left: 41px;
+  text-transform: capitalize;
+  font-weight: 600;
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 405px;
+  height: 57px;
+  mix-blend-mode: normal;
+}
+.frame-child {
+  position: relative;
+  border-radius: 50%;
+  width: 189px;
+  height: 171px;
+  object-fit: cover;
+}
+.frame-div {
+  position: absolute;
+  top: 9px;
+  left: 1620px;
+  border-radius: var(--br-31xl);
+  width: 93px;
+  height: 84px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.noisy1 {
+  position: absolute;
+  top: 2360px;
+  left: 89px;
+  font-size: var(--font-size-77xl);
+  text-decoration: underline;
+  text-transform: capitalize;
+  font-family: var(--font-kavoon);
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 283px;
+  height: 61px;
+  backdrop-filter: blur(70px);
+  text-shadow: 2px 0 0#eda600, 0 2px 0#eda600, -2px 0 0#eda600, 0-2px 0#eda600;
+}
+.macbook-pro-16-1-child26 {
+  position: absolute;
+  top: 2545px;
+  left: 1390px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gainsboro);
+  width: 313px;
+  height: 156px;
+}
+.macbook-pro-16-1-child27 {
+  position: absolute;
+  top: 2569px;
+  left: 1589px;
+  border-radius: 50%;
+  width: 84px;
+  height: 97px;
+  object-fit: cover;
+}
+.settings {
+  position: absolute;
+  top: 2592px;
+  left: 1420px;
+  text-transform: capitalize;
+  font-weight: 600;
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 253px;
+  height: 55px;
+  mix-blend-mode: normal;
+}
+.macbook-pro-16-1-child28 {
+  position: absolute;
+  top: 135px;
+  left: 37px;
+  border-radius: 50%;
+  width: 265px;
+  height: 258px;
+  object-fit: cover;
+}
+.we-promise {
+  position: absolute;
+  top: 770px;
+  left: 1304px;
+  font-size: var(--font-size-45xl);
+  text-decoration: underline;
+  text-transform: capitalize;
+  font-weight: 800;
+  font-family: var(--font-raleway);
+  color: var(--color-orange);
+  display: inline-block;
+  width: 387px;
+  height: 75px;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.safe-packaging {
+  margin-bottom: 0;
+}
+.fast-delivery-safe-packaging-2 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 48px;
+}
+.fast-delivery-safe-container,
+.our-products,
+.what-are-you {
+  position: absolute;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.fast-delivery-safe-container {
+  top: 845px;
+  left: 1274px;
+  font-size: var(--font-size-17xl);
+  width: 464px;
+  height: 224px;
+}
+.our-products,
+.what-are-you {
+  font-weight: 800;
+  font-family: var(--font-raleway);
+  color: var(--color-gray-100);
+}
+.our-products {
+  top: 2746px;
+  left: 629px;
+  font-size: 57px;
+  width: 506px;
+  height: 73px;
+}
+.what-are-you {
+  top: 1092px;
+  left: 421px;
+  font-size: var(--font-size-45xl);
+  width: 870px;
+  height: 64px;
+}
+.noise-cancellation {
+  margin: 0;
+  text-transform: capitalize;
+}
+.chargers-shop-by-container,
+.gaming-headphones-shop-container,
+.true-wireless-earbuds-container,
+.wireless-speakers-shop-container {
+  position: absolute;
+  top: 2865px;
+  left: 7px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-100);
+  text-align: center;
+  display: inline-block;
+  width: 398px;
+  height: 196px;
+}
+.chargers-shop-by-container,
+.gaming-headphones-shop-container,
+.wireless-speakers-shop-container {
+  left: 931px;
+  width: 414px;
+  height: 242px;
+}
+.chargers-shop-by-container,
+.wireless-speakers-shop-container {
+  top: 2869px;
+  left: 1355px;
+  width: 351px;
+  height: 336px;
+}
+.wireless-speakers-shop-container {
+  left: 411px;
+  width: 497px;
+  height: 582px;
+}
+.follow-us-on {
+  position: absolute;
+  top: 3338px;
+  left: 49px;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+  width: 261px;
+  height: 45px;
+}
+.discord,
+.facebook,
+.instagram,
+.spotify,
+.twitter,
+.youtube {
+  position: absolute;
+  top: 3396px;
+  left: 389px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 328px;
+  height: 68px;
+}
+.discord,
+.instagram,
+.spotify,
+.twitter,
+.youtube {
+  left: 627px;
+}
+.discord,
+.spotify,
+.twitter,
+.youtube {
+  top: 3400px;
+  left: 1097px;
+}
+.discord,
+.twitter,
+.youtube {
+  top: 3398px;
+  left: 1325px;
+}
+.discord,
+.youtube {
+  top: 3400px;
+  left: 882px;
+}
+.youtube {
+  top: 3396px;
+  left: 1550px;
+}
+.copyright-2023,
+.privacy-policy,
+.terms-conditions {
+  font-size: var(--font-size-24xl);
+  text-decoration: underline;
+  text-transform: capitalize;
+}
+.copyright-2023 {
+  position: absolute;
+  top: 3656px;
+  left: 54px;
+  display: inline-block;
+  width: 1674px;
+  height: 45px;
+}
+.privacy-policy,
+.terms-conditions {
+  top: 3471px;
+  height: 52px;
+}
+.terms-conditions {
+  position: absolute;
+  left: 836px;
+  display: inline-block;
+  width: 628px;
+}
+.privacy-policy {
+  left: 511px;
+  width: 359px;
+}
+.about-us,
+.for-queries,
+.off5,
+.privacy-policy {
+  position: absolute;
+  display: inline-block;
+}
+.about-us {
+  top: 3542px;
+  left: 748px;
+  font-size: var(--font-size-21xl);
+  text-transform: capitalize;
+  font-weight: 800;
+  font-family: var(--font-raleway);
+  width: 233px;
+  height: 48px;
+}
+.for-queries,
+.off5 {
+  top: 3603px;
+  left: 263px;
+  text-transform: lowercase;
+  width: 1438px;
+  height: 34px;
+}
+.off5 {
+  top: 2432px;
+  left: 574px;
+  font-size: var(--font-size-17xl);
+  text-transform: capitalize;
+  font-weight: 600;
+  width: 272px;
+  height: 48px;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.macbook-pro-16-1 {
+  position: relative;
+  background-color: var(--color-white);
+  border: 4px solid var(--color-white);
+  box-sizing: border-box;
+  width: 100%;
+  height: 3746px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

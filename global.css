@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-raleway: Raleway;
+  --font-kavoon: Kavoon;
+  --font-paytone-one: "Paytone One";
+
+  /* font sizes */
+  --font-size-17xl: 36px;
+  --font-size-13xl: 32px;
+  --font-size-21xl: 40px;
+  --font-size-24xl: 43px;
+  --font-size-5xl: 24px;
+  --font-size-45xl: 64px;
+  --font-size-77xl: 96px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #0d001a;
+  --color-gray-200: rgba(0, 0, 0, 0.97);
+  --color-orange: #eda600;
+  --color-gainsboro: #d9d9d9;
+  --color-midnightblue: #29074a;
+  --color-gold: #ffca28;
+  --color-black: #000;
+
+  /* Border radiuses */
+  --br-31xl: 50px;
+}
